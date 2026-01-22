@@ -8,7 +8,7 @@ It asks what you would like to work on, what you like to do for fun, and what yo
 
 
 Rules:
-You must answer earnestly
-You can only have one answer for each question
-Each answer must be strict and cannot be left for interpretation
-Once you get your answer, no buts, just do it
+- You must answer earnestly
+- You can only have one answer for each question
+- Each answer must be strict and cannot be left for interpretation
+- Once you get your answer, no buts, just do it
