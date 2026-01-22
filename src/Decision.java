@@ -20,11 +20,11 @@ public class Decision {
         String SleepyNightNight = input.nextLine();
 
 
-        System.out.println("Do you have energy? (y or n)");
+        System.out.println("Are you tired and have the option for resting up? (y or n)");
         String Energy = input.nextLine();
 
-        if (Energy.equals("y")){
-            System.out.println("In the Mood for some work?");
+        if (Energy.equals("n")){
+            System.out.println("In the Mood for some work? (y or n)");
             String Worktime = input.nextLine();
 
             if (Worktime.equals("y")){
