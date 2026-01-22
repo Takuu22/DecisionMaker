@@ -7,6 +7,9 @@ public class Decision {
         System.out.println("WARNING: AlL QUESTIONS REQUIRE ONE TANGIBLE ANSWER MAXIMUM");
         System.out.println();
 
+        System.out.println("Whats the main thing to work on right now");
+        String MainTask = input.nextLine();
+
         System.out.println("Main thing you do for fun?");
         String MainHobby = input.nextLine();
 
@@ -25,7 +28,7 @@ public class Decision {
             String Worktime = input.nextLine();
 
             if (Worktime.equals("y")){
-                System.out.println("Do Some work");
+                System.out.println("Do your Task: "+MainTask);
             }
             else{
                 System.out.println("Do you have Access to your Main chill Space? (y or n)");
